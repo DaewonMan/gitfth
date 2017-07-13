@@ -52,10 +52,10 @@
 	git merge B
 
 ## [원격 저장소 만들기(Github)]
-> $ brew install git
-> $ git config --global user.name "username"
-> $ git config --global user.email "github email address"
-> $ git config --list
+    $ brew install git
+    $ git config --global user.name "username"
+    $ git config --global user.email "github email address"
+    $ git config --list
 
 > 현재 우리의 로컬저장소에 원격저장소remote repository(아래주소)를 연결시킨다. 아래주소는 origin이라는 별명을 붙여준다. origin은 기본적인 원격저장소이다.
     
